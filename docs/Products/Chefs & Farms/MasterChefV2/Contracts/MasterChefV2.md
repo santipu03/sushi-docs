@@ -8,7 +8,7 @@ Additional rewarders can be set with the pools that are added to allow distribut
 
 A dummy token is used to accumulate and distribute SUSHI tokens from the original MasterChef contract, and thus the total allocation points set must match the allocation points dedicated to the dummy token on MasterChef.
 
-The full contract can be found [here](https://github.com/sushiswap/sushiswap/blob/master/protocols/masterchef/contracts/MasterChefV2.sol).
+The full contract can be found [here](https://github.com/sushiswap/sushiswap/blob/271458b558afa6fdfd3e46b8eef5ee6618b60f9d/contracts/MasterChefV2.sol).
 
 ## Functions
 
